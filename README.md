@@ -62,7 +62,7 @@ console session freely. See [Docker Compose docs] to tailor for your use-case
 
 If you want to speed up the node syncing processes you can use a snapshot. The snapshot is a compressed file that contains the database of a node at a certain block.
 You can download snapshots using Mithril, which are available for mainnet, preprod, and preview networks.
-A detailed explanation can be found [here](https://mithril.network/doc/manual/getting-started/bootstrap-cardano-node)
+A detailed explanation can be found [here](https://mithril.network/doc/manual/getting-started/bootstrap-cardano-node).
 
 <details open>
   <summary><i>mainnet</i></summary>
