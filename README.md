@@ -60,7 +60,7 @@ You can download snapshots using Mithril, which are available for mainnet, prepr
 A detailed explanation can be found [here](https://mithril.network/doc/manual/getting-started/bootstrap-cardano-node)
 <details open>
   <summary><i>mainnet</i></summary>
-Get the most recent weekly snapshot link [here](https://update-cardano-mainnet.iohk.io/cardano-db-sync/index.html#13.5/), and set it as `RESTORE_SNAPSHOT` below, or omit if you wish to sync from genesis.
+Get the most recent weekly snapshot link <a>href="https://update-cardano-mainnet.iohk.io/cardano-db-sync/index.html#13.5" target="_blank">here</a>, and set it as `RESTORE_SNAPSHOT` below, or omit if you wish to sync from genesis.
 
 > **Disclaimer:** The Chainfollower environment variables are currently mandatory.
 > Otherwise the Token registry will get stuck. 
